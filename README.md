@@ -1,5 +1,5 @@
 # Various Delphi projects (for student's homework)
-## The most projects are done in Russian
+### The most projects are done in Russian language
 The list of folders:
 1. Brown - imitates the chaotic Brown's movement
 2. Calc - a very simple calculator
